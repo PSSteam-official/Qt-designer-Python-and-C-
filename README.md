@@ -1,2 +1,2 @@
-# Qt-designer-Python-and-C-
-Pyqt6
+# About Qt-designer-Python-and-C-
+Version:Pyqt6
